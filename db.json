@@ -1,3 +1,4 @@
+[
 {
     id: "1",
     startDate: "01-01-2023",
@@ -8,3 +9,4 @@
     leadCount: "8000",
     expectedDRR: "121",
 }
+]
