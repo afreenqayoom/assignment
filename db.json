@@ -1,12 +1,12 @@
-[
+
 {
-    id: "1",
-    startDate: "01-01-2023",
-    endDate: "10-01-2023",
-    monthYear: "1-2023",
-    datesExcluded: "05-01-2023",
-    noDays: "9",
-    leadCount: "8000",
-    expectedDRR: "121",
+    "id": "1",
+    "startDate": "01-01-2023",
+    "endDate": "10-01-2023",
+    "monthYear": "1-2023",
+    "datesExcluded": "05-01-2023",
+    "noDays": "9",
+    "leadCount": "8000",
+    "expectedDRR": "121",
 }
-]
+
